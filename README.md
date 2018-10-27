@@ -37,7 +37,7 @@ as follows:
 # Running the Models on your Computer
 The first thing you will need to do is grab Python 3.6.6 for your operating
 system. You can go to the main Python website by
-[clicking this link][https://www.python.org/]. The download link should
+[clicking this link](https://www.python.org/). The download link should
 automatically detect your operating system and get you started.
 
 Once you have python installed, you will need to use pip to install the packages
